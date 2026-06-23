@@ -1389,6 +1389,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Colah's Blog](https://colah.github.io/) - Blog by Christopher Olah on deep learning and artificial intelligence, featuring detailed explanations, tutorials, and research insights.
 - [TensorFlow Playground](https://playground.tensorflow.org) - An interactive tool for experimenting with neural networks, allowing users to visualize how different configurations affect model training and classification tasks.
 - [Future Tools](https://www.futuretools.io/) - Platform for finding the exact AI tool for your needs.
+- [AIPower.spot](https://aipower.spot/) - This is an online catalog and platform for searching and selecting tools based on artificial intelligence (AI).
 - [AI Tools Arena](https://aitoolsarena.com/) - Platform showcasing various AI tools and resources.
 - [Aiva Valley](https://aivalley.ai/) - The latest source of AI tools and prompts.
 
